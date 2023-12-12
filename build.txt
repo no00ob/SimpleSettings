@@ -1,0 +1,1 @@
+xcopy /y $(TargetDir)$(TargetName).dll "C:/Users/Aki/AppData/Roaming/r2modmanPlus-local/LethalCompany/profiles/Personal/BepInEx/plugins/no00ob-SimpleSettings"
